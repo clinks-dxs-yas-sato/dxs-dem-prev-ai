@@ -12,7 +12,6 @@ from gtts import gTTS
 from janome.tokenizer import Tokenizer
 import pykakasi
 import pygame
-from mutagen.mp3 import MP3 as mp3
 import time
 import random
 

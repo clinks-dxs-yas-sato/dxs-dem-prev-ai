@@ -1,5 +1,12 @@
 keras>=2.12.0
 opencv-contrib-python-headless
+tensorflow-intel==2.13.0
 tensorflow-cpu
 streamlit_webrtc
 SpeechRecognition==3.10.0
+FuzzyTM>=0.4.0
+blosc2~=2.0.0
+cython>=0.29.21
+llvmlite<0.41,>=0.40
+tiktoken==0.3.1
+gTTS==2.4.0

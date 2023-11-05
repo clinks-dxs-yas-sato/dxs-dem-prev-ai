@@ -1,0 +1,4 @@
+keras>=2.12.0
+opencv-contrib-python-headless
+tensorflow-cpu
+streamlit_webrtc

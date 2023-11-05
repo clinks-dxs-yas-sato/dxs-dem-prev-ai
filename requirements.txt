@@ -12,5 +12,3 @@ gTTS==2.4.0
 Janome==0.5.0
 pykakasi
 pygame
-pip==23.3.1
-PyAudio
